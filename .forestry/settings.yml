@@ -32,9 +32,8 @@ sections:
   match: "**/*"
   new_doc_ext: yaml
 - type: document
-  path: config.toml
+  path: config.yaml
   label: Configuration
-  match: "**/*"
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
