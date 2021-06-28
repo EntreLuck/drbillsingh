@@ -19,8 +19,6 @@ sections:
   match: "**/*"
   templates:
   - post
-- type: heading
-  label: Data
 - type: directory
   path: content/authors
   label: Authors
@@ -28,6 +26,8 @@ sections:
   match: "**/_index.md"
   templates:
   - author
+- type: heading
+  label: Data
 - type: directory
   path: config/_default
   label: Config
