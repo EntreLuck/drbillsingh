@@ -5,7 +5,7 @@ bio: 'Dr. Bill Singh has 35 years experience in Immunopharmacology and Bio-pharm
   (anti-aging).
 
 '
-avatar: "/images/wunvcnrn_400x400.jpg"
+avatar: "/images/dr-bill-singh_400x400.jpg"
 featured: true
 social: []
 
